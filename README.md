@@ -8,4 +8,5 @@ Topics include:
   - Monte Carlo Particle Filter
   - Kalman Filter
   - Extended Kalman Filter
+- Mapping with known poses
 - SLAM (fastSLAM)
